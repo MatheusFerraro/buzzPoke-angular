@@ -1,0 +1,66 @@
+{
+  "title":"Qual Pokemon Boss você seria ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é o seu elemento favorito ?",
+      "options":[
+        {"id": 1, "name":"🔥", "alias":"M"},
+        {"id": 2, "name":"🍃", "alias":"T"},
+        {"id": 3, "name":"🧱", "alias":"R"},
+        {"id": 4, "name":"⚡", "alias":"E"}
+       
+      ]
+    },
+    {
+      "id":2,
+      "question": "Como você já se machucou ?",
+      "options":[
+        {"id": 1, "name":"Se queimou", "alias":"M"},
+        {"id": 2, "name":"Tomou choque", "alias":"E"},
+        {"id": 3, "name":"Pisou na pedra", "alias":"R"},
+        {"id": 4, "name":"Deslizou na grama e caiu", "alias":"T"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Quais profissões você prefere?",
+      "options":[
+        {"id": 1, "name":"Eletricista", "alias":"E"},
+        {"id": 2, "name":"Jardineiro", "alias":"T"},
+        {"id": 3, "name":"Pedreiro", "alias":"R"},
+        {"id": 4, "name":"Cozinheiro", "alias":"M"},
+        {"id": 4, "name":"Bombeiro", "alias":"M"},
+        {"id": 1, "name":"Engenheiro Eletrico", "alias":"E"},
+        {"id": 2, "name":"Jogador de futebol", "alias":"T"},
+        {"id": 3, "name":"Rockeiro, rock kkkkk", "alias":"R"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual é a sua cor favorita ?",
+      "options":[
+        {"id": 1, "name":"🟨", "alias":"E"},
+        {"id": 2, "name":"🟥", "alias":"M"},
+        {"id": 3, "name":"🟦", "alias":"T"},
+        {"id": 4, "name":"🟫", "alias":"R"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual é o mais foda?",
+      "options":[
+        {"id": 1, "name":"O Coisa", "alias":"R"},
+        {"id": 2, "name":"Groot", "alias":"T"},
+        {"id": 3, "name":"Tocha Humana", "alias":"M"},
+        {"id": 4, "name":"Tempestade", "alias":"E"}
+      ]
+    }
+  ],
+  "results":{
+    "M": "MAGMORTAR!",
+    "E": "ELECTIVIRE!",
+    "T": "TANGROWTH!",
+    "R": "RHYPERIOR!"
+  }
+}
